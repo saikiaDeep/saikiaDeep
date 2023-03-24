@@ -15,7 +15,7 @@ Trying enhance my skills more and more on Android and its latest advancements. I
 
 ### Tools & Technologies : 
 ![Firebase](https://img.icons8.com/color/50/000000/firebase.png)
-<img align="left" alt="Android Studio" width="48px" height="48px" src="https://raw.githubusercontent.com/saikiaDeep/saikiaDeep/6ac6694aecdc748790c9639bfb723269948e7090/assets/icons/android-studio.svg" />
+<img align="left" alt="Android Studio" width="48px" height="48px" src="https://github.com/saikiaDeep/saikiaDeep/blob/main/assets/icons/android-studio.svg?raw=true" />
 <img align="left" alt="Postman" width="48px" height="48px" src="https://github.com/saikiaDeep/saikiaDeep/blob/main/assets/icons/postman_icon.png?raw=true" />
 ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png)
