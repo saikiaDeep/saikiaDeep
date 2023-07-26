@@ -39,4 +39,4 @@ Trying enhance my skills more and more on Android and its latest advancements. I
 
 
 
-![Profile views](https://gpvc.arturio.dev/saikiaDeep)  
+![Profile Views](https://komarev.com/ghpvc/?username=saikiaDeep&color=green)
