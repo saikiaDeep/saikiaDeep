@@ -24,7 +24,6 @@ Trying enhance my skills more and more on Android and its latest advancements. I
 
 
 ### Some Updates :
-- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source android projects  
 
 
