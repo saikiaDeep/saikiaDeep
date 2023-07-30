@@ -7,7 +7,7 @@
          width="45" />
 </h3>
 
-### Android Developer | Backend Enthusiast | CSE undergrad at NIT Silchar
+### Android Developer | CSE undergrad at NIT Silchar
 
 
 Trying enhance my skills more and more on Android and its latest advancements. I'm always looking for contributing to open source android projects. 
